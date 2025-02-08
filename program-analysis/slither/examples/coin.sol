@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: AGPL-3.0
 pragma solidity ^0.8.0;
 
-contract Coin {
+contract 2Coin {
     address owner = msg.sender;
 
     mapping(address => uint256) balances;
